@@ -1,6 +1,6 @@
 {
   "name": "react-router-breadcrumb",
-  "version": "1.0.1",
+  "version": "1.1.1",
   "description": "A react-component to generate breadcrumbs automatically based on routers by react-router.",
   "main": "dist/index.js",
   "author": "synccheng",
