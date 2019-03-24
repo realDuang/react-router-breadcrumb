@@ -1,8 +1,31 @@
 {
   "name": "react-router-breadcrumb",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A react-component to generate breadcrumbs automatically based on routers by react-router.",
-  "main": "src/index.js",
+  "main": "dist/index.js",
   "author": "synccheng",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kelekexiao123/react-router-breadcrumb.git"
+  },
+  "homepage": "https://github.com/kelekexiao123/react-router-breadcrumb#readme",
+  "bugs": {
+    "url": "https://github.com/kelekexiao123/react-router-breadcrumb/issues"
+  },
+  "keywords": [
+    "react",
+    "router",
+    "route",
+    "breadcrumb",
+    "link"
+  ],
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1"
+  },
+  "files": [
+    "dist"
+  ]
 }
